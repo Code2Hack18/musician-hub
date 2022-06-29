@@ -36,7 +36,7 @@ const Table = ()=>{
                     </tr>
                     <tr>
                         <td className=" text-center">
-                            <img className="px-6 py-4" src="https://pyxis.nymag.com/v1/imgs/fdf/db0/421af17121276a71945282e440357c43cb-25-post-malone-2.rsquare.w700.jpg"></img>
+                            <img className="px-6 py-4" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzqnOeaK_42yDhfGzJI17oP0EAUEvjB4QU6c23W8IB21DnVCWENU8N-nkCYS34lWGvJa0&usqp=CAU"></img>
                         </td>
                         <td className=" border-l-2  text-center">Someone you loved</td>
                         <td className=" border-l-2 text-center">July 21 2019</td>
@@ -54,7 +54,7 @@ const Table = ()=>{
                     </tr>
                     <tr>
                         <td className=" text-center">
-                            <img className="px-6 py-4" src="https://pyxis.nymag.com/v1/imgs/fdf/db0/421af17121276a71945282e440357c43cb-25-post-malone-2.rsquare.w700.jpg"></img>
+                            <img className="px-6 py-4" src="https://i.scdn.co/image/ab67616d0000b2737fe4a82a08c4f0decbeddbc6"></img>
                         </td>
                         <td className=" border-l-2  text-center">Someone you loved</td>
                         <td className=" border-l-2 text-center">July 21 2019</td>
@@ -69,126 +69,7 @@ const Table = ()=>{
                             </div>
 
                         </td>
-                    </tr> <tr>
-                        <td className=" text-center">
-                            <img className="px-6 py-4" src="https://pyxis.nymag.com/v1/imgs/fdf/db0/421af17121276a71945282e440357c43cb-25-post-malone-2.rsquare.w700.jpg"></img>
-                        </td>
-                        <td className=" border-l-2  text-center">Someone you loved</td>
-                        <td className=" border-l-2 text-center">July 21 2019</td>
-                        <td className="border-l-2 text-center">Lewis Capaldi</td>
-                        <td className=" border-l-2 text-center">
-                            <div className="flex justify-center">
-                            <AiOutlineStar className="text-slate-300 active:fill-yellow-600  items-center mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            </div>
-
-                        </td>
-                    </tr> <tr>
-                        <td className=" text-center">
-                            <img className="px-6 py-4" src="https://pyxis.nymag.com/v1/imgs/fdf/db0/421af17121276a71945282e440357c43cb-25-post-malone-2.rsquare.w700.jpg"></img>
-                        </td>
-                        <td className=" border-l-2  text-center">Someone you loved</td>
-                        <td className=" border-l-2 text-center">July 21 2019</td>
-                        <td className="border-l-2 text-center">Lewis Capaldi</td>
-                        <td className=" border-l-2 text-center">
-                            <div className="flex justify-center">
-                            <AiOutlineStar className="text-slate-300 active:fill-yellow-600  items-center mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            </div>
-
-                        </td>
-                    </tr> <tr>
-                        <td className=" text-center">
-                            <img className="px-6 py-4" src="https://pyxis.nymag.com/v1/imgs/fdf/db0/421af17121276a71945282e440357c43cb-25-post-malone-2.rsquare.w700.jpg"></img>
-                        </td>
-                        <td className=" border-l-2  text-center">Someone you loved</td>
-                        <td className=" border-l-2 text-center">July 21 2019</td>
-                        <td className="border-l-2 text-center">Lewis Capaldi</td>
-                        <td className=" border-l-2 text-center">
-                            <div className="flex justify-center">
-                            <AiOutlineStar className="text-slate-300 active:fill-yellow-600  items-center mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            </div>
-
-                        </td>
-                    </tr> <tr>
-                        <td className=" text-center">
-                            <img className="px-6 py-4" src="https://pyxis.nymag.com/v1/imgs/fdf/db0/421af17121276a71945282e440357c43cb-25-post-malone-2.rsquare.w700.jpg"></img>
-                        </td>
-                        <td className=" border-l-2  text-center">Someone you loved</td>
-                        <td className=" border-l-2 text-center">July 21 2019</td>
-                        <td className="border-l-2 text-center">Lewis Capaldi</td>
-                        <td className=" border-l-2 text-center">
-                            <div className="flex justify-center">
-                            <AiOutlineStar className="text-slate-300 active:fill-yellow-600  items-center mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            </div>
-
-                        </td>
-                    </tr> <tr>
-                        <td className=" text-center">
-                            <img className="px-6 py-4" src="https://pyxis.nymag.com/v1/imgs/fdf/db0/421af17121276a71945282e440357c43cb-25-post-malone-2.rsquare.w700.jpg"></img>
-                        </td>
-                        <td className=" border-l-2  text-center">Someone you loved</td>
-                        <td className=" border-l-2 text-center">July 21 2019</td>
-                        <td className="border-l-2 text-center">Lewis Capaldi</td>
-                        <td className=" border-l-2 text-center">
-                            <div className="flex justify-center">
-                            <AiOutlineStar className="text-slate-300 active:fill-yellow-600  items-center mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            </div>
-
-                        </td>
-                    </tr> <tr>
-                        <td className=" text-center">
-                            <img className="px-6 py-4" src="https://pyxis.nymag.com/v1/imgs/fdf/db0/421af17121276a71945282e440357c43cb-25-post-malone-2.rsquare.w700.jpg"></img>
-                        </td>
-                        <td className=" border-l-2  text-center">Someone you loved</td>
-                        <td className=" border-l-2 text-center">July 21 2019</td>
-                        <td className="border-l-2 text-center">Lewis Capaldi</td>
-                        <td className=" border-l-2 text-center">
-                            <div className="flex justify-center">
-                            <AiOutlineStar className="text-slate-300 active:fill-yellow-600  items-center mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            </div>
-
-                        </td>
-                    </tr> <tr>
-                        <td className=" text-center">
-                            <img className="px-6 py-4" src="https://pyxis.nymag.com/v1/imgs/fdf/db0/421af17121276a71945282e440357c43cb-25-post-malone-2.rsquare.w700.jpg"></img>
-                        </td>
-                        <td className=" border-l-2  text-center">Someone you loved</td>
-                        <td className=" border-l-2 text-center">July 21 2019</td>
-                        <td className="border-l-2 text-center">Lewis Capaldi</td>
-                        <td className=" border-l-2 text-center">
-                            <div className="flex justify-center">
-                            <AiOutlineStar className="text-slate-300 active:fill-yellow-600  items-center mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            <AiOutlineStar className="text-slate-300 mx-2" />
-                            </div>
-
-                        </td>
-                    </tr>
+                    </tr> 
 
   </tbody>
 

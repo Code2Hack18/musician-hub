@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './components/Header'
 import Table from './components/Table';
 import Artists from './components/Artists'
+import Addsongs from './components/Addsongs';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Header />
       <Table />
       <Artists />
+      <Addsongs />
     </>
   )
 }

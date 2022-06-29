@@ -5,7 +5,7 @@ import { IoIosAdd } from 'react-icons/io';
 const Header = () => {
     return (
         <>
-        <nav className="container mx-auto w-screen flex h-11 items-center justify-between px-52
+        <nav className="container mx-auto w-s100 flex h-11 items-center justify-between px-52
          bg-slate-400 ">
             <h1 className=" text-md cursor-pointer text-white hover:text-black px-3 font-semibold rounded hover:bg-white active:bg-slate-500 transition delay-100">Home</h1>
             <div className="flex  ">
