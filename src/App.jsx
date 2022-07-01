@@ -12,7 +12,7 @@ function App() {
       <Table />
       <Artists />
       <Addsongs />
-      <Addartist />
+      {/* <Addartist visual = "hidden"  /> */}
     </>
   )
 }
